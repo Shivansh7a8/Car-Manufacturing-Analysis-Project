@@ -1,10 +1,9 @@
 # Summer Olympics Analysis Project
-## file externsion & diractory used
+## file extension & directory used
 - .ipynb
 - .csv
 ## Using
 - Python 
 - numpy
 - pandas
-- matplotlib.pyplot
 ### Data Analysis,Data Structure.
